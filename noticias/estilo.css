@@ -1,0 +1,21 @@
+#principal{
+	width: 90%;
+	margin: 0 auto;
+}
+#cabecalho{
+	width: 100%;
+	min-height: 100px;
+	background: #ff0;
+}
+#menu{
+	width: 30%;
+	float: left;
+	min-height: 300px;
+	background: #cecece;
+}
+#conteudo{
+	width: 65%;
+	float: right;
+	min-height: 300px;
+	background: #0f0;
+}
